@@ -1,6 +1,6 @@
 # notifiers-service
 
-Microservicio **notifiers** del parcial (Integrante 3). Hace los **pasos 3 y 4** del diagrama:
+Microservicio **notifiers** del parcial.
 
 1. **Paso 3** – Consumidor Kafka que escucha el tópico `notificaciones` (grupo `notifiers`).
 2. **Paso 4** – Por cada mensaje envía el correo con la **API HTTP de Brevo** (no SMTP: Render bloquea SMTP).
